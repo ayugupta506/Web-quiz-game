@@ -1,0 +1,24 @@
+MCQS
+
+//Question No #1
+
+Which type of JavaScript language is ___
+Object-Oriented
+Object-Based
+Assembly-language
+High-level
+1   
+//Question No #2
+   
+Which one of the following also known as Conditional Expression:
+Alternative to if-else
+Switch statement
+If-then-else statement
+immediate if
+3
+
+//Question No #3
+    
+Which layer of planet Earth is made up of tectonic plates? Innercore Outercore Mantle Crust3  
+
+//Question No #4The first web server was built in: 1990 in Geneva, Switzerland1985 in Berkeley, California1988 in Cambridge, Massachusetts1947 in London, UK0 //Question No #5 The function and  var are known as: Keywords Datatypes DeclarationStatements Prototypes2

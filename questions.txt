@@ -1,0 +1,47 @@
+MCQS
+
+//Question No #1
+
+What does HTML stand for?
+Hyperlinks and Text Markup Language
+Hyper Text Markup Language
+Hyper Text Making Language
+Hyper Text Mark Language
+1
+   
+//Question No #2
+   
+What does CSS stand for?
+Colorful StyleSheet
+Creative Style Sheet
+Cascading Style Sheet
+Computer Style Sheet
+2
+
+//Question No #3
+    
+Which is the continent with the most number of countries?
+South America
+Africa
+Asia
+North America
+1
+    
+//Question No #4
+    
+What color symbolizes peace?
+White
+Blue
+Green
+Yellow
+0
+
+//Question No #5
+
+What is the place where books are kept called?
+Museum
+Library
+Zoo
+Garden
+1
+      

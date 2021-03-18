@@ -1,0 +1,47 @@
+MCQS
+
+//Question No #1
+
+What are constellations?
+Group of meteors
+Group of Planets
+Group of galaxies
+Group of stars
+3
+   
+//Question No #2
+   
+Which of the following tag can be used to mark up a conversation in HTML5?
+Footer
+nav
+dialog
+figure
+2
+
+//Question No #3
+    
+Which HTML tag is used to define an internal style sheet?
+<script>
+<style>
+<html>
+<svg>
+1
+    
+//Question No #4
+    
+What is the person who compiles a dictionary called?
+Lexicographer
+Compiler
+Director
+Editor
+0
+
+//Question No #5
+
+How do you insert a comment in a CSS file?
+/*This is Comment*/
+//This Is Comment
+<!--- This Is Comment --->
+//This Is Comment//
+1
+      
